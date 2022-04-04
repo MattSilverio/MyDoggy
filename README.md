@@ -17,7 +17,7 @@ When cloning the repository, go to your machine's terminal and type 'npm install
 ## How does the project work?
 The project consumes an API with a repository of photos of dogs, its purpose is to be a social network to post photos of your pets. You can create your registration, create posts and comment on photos
 
-## Technologies Used
+## Technologies 
 React , Javascript and CSS
 
 
@@ -28,4 +28,7 @@ https://user-images.githubusercontent.com/18178688/161466808-20ac5d5a-4716-4faa-
 
 
 https://user-images.githubusercontent.com/18178688/161466829-65f1c2e2-dbb2-415b-b90d-02d7bb2d340c.mp4
+
+
+https://user-images.githubusercontent.com/18178688/161467501-8b4c54b1-64d5-4100-8722-c68bd5cea671.mp4
 
